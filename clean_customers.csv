@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,Country,EmploymentStatus,AnnualIncome,CreditRisk
+1001,23,M,UK,Student,12000,High
+1002,35,F,UK,Employed,42000,Low
+1003,45,M,India,Self-Employed,38000,High
+1004,29,F,Canada,Employed,48000,Low
+1005,52,M,UK,Unemployed,15000,High
+1006,41,F,Australia,Employed,56000,Low
+1007,19,M,UK,Student,8000,High
+1008,33,F,Germany,Employed,51000,Low
+1009,61,M,USA,Retired,22000,High
+1010,27,F,UK,Employed,36000,Low
